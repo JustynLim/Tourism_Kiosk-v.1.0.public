@@ -1,0 +1,66 @@
+/* Minigame/Minigame.css */
+
+.minigame-container {
+    text-align: center;
+  }
+  
+  .question-card {
+    /* Center the div  */
+    margin: 0 auto;
+  
+    /* Dimensions  */
+    width: 80%;  /*Can be written as '80'/'80%' */
+    height: auto;
+  
+    /* Visual  */
+    background-color: rgb(13, 137, 220);
+    padding: 16px;
+    border-radius: 16px;
+    color: rgb(255, 255, 255);
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 30px 60px -12px,
+      rgba(0, 0, 0, 0.3) 0px 18px 36px -18px;
+  }
+  
+  ul {
+    list-style: none;
+  }
+  
+  li {
+    margin-top: 8px;
+    background-color: rgb(0, 155, 147);
+    padding: 16px;
+    border: 3px solid rgb(255, 255, 255);
+    border-radius: 20px;
+    font-size: 20px;
+  }
+  
+  .question-text {
+    color: darkblue;
+    font-size: 24px;
+  }
+  
+  /* Final Results  */
+  
+  .final-results {
+    /* Center the div  */
+    margin: 0 auto;
+  
+    /* Dimensions  */
+    width: 50%;
+    height: auto;
+    margin-top: 64px;
+  
+    /* Visual  */
+    background-color: rgb(69, 152, 208);
+    padding: 16px;
+    border-radius: 16px;
+    color: white;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 30px 60px -12px,
+      rgba(0, 0, 0, 0.3) 0px 18px 36px -18px;
+  }
+
+  /* .shopping-cart {
+    position: fixed;
+    top: 50px;
+    right: 20px;
+  } */

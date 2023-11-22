@@ -1,0 +1,17 @@
+[
+    {
+      "id": 3,
+      "name": "Adult Ticket",
+      "price": 5.00,
+      "imgUrl": "/images/adult-trans-tick.png",
+      "type": "transport"
+    },
+    {
+      "id": 4,
+      "name": "Child Ticket",
+      "price": 3.00,
+      "imgUrl": "/images/child-trans-tick.png",
+      "type": "transport"
+    }
+]
+  

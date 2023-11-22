@@ -1,0 +1,16 @@
+[
+    {
+        "id": 1,
+        "name": "Adult Ticket",
+        "price": 15.00,
+        "imgUrl": "/images/adults.png",
+        "type": "store"
+    },
+    {
+        "id": 2,
+        "name": "Child Ticket",
+        "price": 10.00,
+        "imgUrl": "/images/children.png",
+        "type": "store"
+    }
+]
