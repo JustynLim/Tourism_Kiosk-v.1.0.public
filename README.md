@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 # Prerequisites
 
-Ensure that you have Node.js installed in your environment. You can download the latest version here [https://nodejs.org/]. It is recommended to download the stable version when trying to run the React app for the first time. Use experimental version at your own discretion.
+Ensure that you have Node.js installed in your environment. You can download the latest version here https://nodejs.org/. It is recommended to download the stable version when trying to run the React app for the first time. Use experimental version at your own discretion.
 
 Verify that Node.js and Node Package Manager is installed in your environment by using these command lines:
 ## `node -v`
